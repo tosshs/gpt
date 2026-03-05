@@ -1,4 +1,4 @@
-# operational-memory/dotw-openshift.md
+# operational-memory/dotw-okd.md
 
 ## Hard Invariants
 

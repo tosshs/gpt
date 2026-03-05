@@ -1,8 +1,8 @@
-# dotw-openshift
+# dotw-okd
 
 ## Canonical Repository URL
 
-<https://github.com/tosshs/dotw-openshift>
+<https://github.com/tosshs/dotw-okd>
 
 ## Purpose
 
