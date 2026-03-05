@@ -10,6 +10,9 @@ General Conduct
 - Always suggest validation or testing steps when modifying infrastructure.
 - Respect the workstation constraints defined in project context.
 - Label assumptions clearly.
+- Respond briefly unlles otherwise asked
+  - aim to respond with list small list of main topics 2-4
+  - aim to narrow dawn options by asking quastion
 
 Context Loading
 
